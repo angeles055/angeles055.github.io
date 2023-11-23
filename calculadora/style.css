@@ -1,0 +1,25 @@
+@import url();
+
+
+
+body{
+    background: rgb(174, 188, 196);
+    font-family:"Arial", sans-serif;
+    color: rgb(18, 65, 119);
+}
+#contenedor {
+    background-color: beige;
+    width: 60%;
+    height: 70%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+   
+    
+}
+
+
+
